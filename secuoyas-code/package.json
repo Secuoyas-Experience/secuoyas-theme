@@ -1,0 +1,23 @@
+{
+  "name": "secuoyas-code",
+  "displayName": "Secuoyas VS Code Themes",
+  "description": "company theme made at Secuoyas",
+  "version": "0.0.1",
+  "publisher": "Secuoyas",
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.svg",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Secuoyas Dark",
+        "uiTheme": "vs-dark",
+        "path": "themes/secuoyas-code.json"
+      }
+    ]
+  }
+}
