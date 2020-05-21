@@ -2,7 +2,7 @@
   "name": "secuoyas-code",
   "displayName": "Secuoyas VS Code Themes",
   "description": "company theme made at Secuoyas",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "publisher": "Secuoyas",
   "engines": {
     "vscode": "^1.14.0"
@@ -10,7 +10,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "icon.svg",
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
