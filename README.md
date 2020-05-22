@@ -1,4 +1,6 @@
 
+<a href="https://secuoyas.com"><img src="https://brand.secuoyas.com/img/repository-hero.png" title="theme-repository-hero" alt="Secuoyas"></a>
+
 ![header](/assets/repository-hero.jpg)
 
 # Secuoyas Code
