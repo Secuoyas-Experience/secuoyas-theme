@@ -62,7 +62,7 @@ Option 1 is preferred as you wold be able to get the updates with a `git pull`co
 The generated theme package should be in the list of installed extensions, and "Secuoyas code" will be available in the list of themes.
 
 ### Bonus - iTerm2 ColorSet
-Secuoyas-code theme adds a bautiful color theme to your terminal window. If you are using iTerm and want to pair those enviroments with the right ANSI colors, just load [this file](/assets/secuoyas-20.itermcolors) in iTerm2::Preferences>Profles>Colors>Color Presets...
+Secuoyas-code theme adds a bautiful color theme to your terminal window. If you are using iTerm and want to pair those enviroments with the right ANSI colors, just load [this file](/assets/secuoyas-20.itermcolors) in **iTerm2::Preferences>Profles>Colors>Color Presets...**
 
 # License
 The following licensing applies to City Lights Syntax Theme: Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0). For more information go to https://creativecommons.org/licenses/by-nc-nd/4.0/
