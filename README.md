@@ -1,8 +1,6 @@
 
 <a href="https://secuoyas.com"><img src="https://brand.secuoyas.com/img/repository-hero.png" title="theme-repository-hero" alt="Secuoyas"></a>
 
-![header](/assets/repository-hero.jpg)
-
 # Secuoyas Code
 
 Dark theme designed with care for better coding and improved developer experience.
@@ -11,7 +9,7 @@ This theme is optimized for Front End development, and has been optimized to hav
 
 ![screenshot-html](/assets/html.png)
 
-> Secuoyas code works better with SF Mono and the Icon Theme form [City Lights](https://github.com/Yummygum/city-lights-icons-vsc)
+> **Secuoyas-code** works better with [SF Mono](https://developer.apple.com/fonts/), the Icon Theme form [City Lights](https://github.com/Yummygum/city-lights-icons-vsc) and [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 
 
 
