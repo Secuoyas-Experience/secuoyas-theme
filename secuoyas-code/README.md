@@ -3,7 +3,7 @@
 
 ## VSC Marketplace
 
-Just push on the intall button.
+Just push on the install button.
 
 ## Github Repo
 
