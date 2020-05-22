@@ -1,7 +1,13 @@
 
-# Installation instructions
+# Installation instructions 
 
-## VS Code
+## VSC Marketplace
+
+Just push on the intall button.
+
+## Github Repo
+
+Clone the repo
 
 Copy (or symlink) the generated package directory into the VS Code extensions directory.
 
@@ -13,7 +19,7 @@ To symlink:
 
     ln -s ~/your.path.to.clone.folder/secuoyas-theme/secuoyas-code ~/.vscode/extensions/secuoyas-code
 
-Then reload or restart VS Code. The generated theme package should be in the list of installed extensions, and "Themer Dark" will be available in the list of themes.
+Then reload or restart VS Code. The generated theme package should be in the list of installed extensions, and "Secuoyas code" will be available in the list of themes.
 
 ---- 
 
