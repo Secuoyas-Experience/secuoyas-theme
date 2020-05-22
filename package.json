@@ -15,9 +15,6 @@
     "color": "#101010",
     "theme": "dark"
   },
-  "activationEvents": [
-    ""
-  ],
   "engines": {
     "vscode": "^1.14.0"
   },
