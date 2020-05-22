@@ -1,7 +1,7 @@
 {
   "name": "secuoyas-code",
   "displayName": "Secuoyas VS Code Themes",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "publisher": "Secuoyas",
   "description": "company theme made at Secuoyas - a theme designed with care for better coding and improved developer experience",
   "author": {
@@ -10,24 +10,16 @@
   "categories": [
     "Themes"
   ],
-  "icon": "images/icon.png",
+  "icon": "icon.png",
   "galleryBanner": {
     "color": "#101010",
-    "theme": "light"
+    "theme": "dark"
   },
   "activationEvents": [
     ""
   ],
   "engines": {
     "vscode": "^1.14.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "icon": "images/icon.png",
-  "galleryBanner": {
-    "color": "#101010",
-    "theme": "light"
   },
   "repository": {
     "type": "git",
