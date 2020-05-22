@@ -4,18 +4,20 @@
   "version": "0.1.0",
   "publisher": "Secuoyas",
   "description": "company theme made at Secuoyas - a theme designed with care for better coding and improved developer experience",
-"author": {
-  "name": "Secuoyas"
-},
-"categories": [
-  "Themes"
-],
-"icon": "images/icon.png",
-"galleryBanner": {
-  "color": "#101010",
-  "theme": "light"
-},
-"activationEvents":[""],
+  "author": {
+    "name": "Secuoyas"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#101010",
+    "theme": "light"
+  },
+  "activationEvents": [
+    ""
+  ],
   "engines": {
     "vscode": "^1.14.0"
   },
@@ -31,7 +33,7 @@
     "type": "git",
     "url": "https://github.com/Secuoyas-Experience/secuoyas-theme"
   },
-  "homepage": "https://secuoyas.com"
+  "homepage": "https://secuoyas.com",
   "contributes": {
     "themes": [
       {
@@ -42,4 +44,3 @@
     ]
   }
 }
-
