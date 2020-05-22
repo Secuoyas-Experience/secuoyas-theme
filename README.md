@@ -1,4 +1,23 @@
 
+![header](/assets/repository-hero.jpg)
+
+# Secuoyas Code
+
+Dark theme designed with care for better coding and improved developer experience.
+
+This theme is optimized for Front End development, and has been optimized to have a uniied experience with html, css, js, md, json, and react files.
+
+![screenshot-html](/assets/html.png)
+
+> Secuoyas code works better with SF Mono and the Icon Theme form [City Lights](https://github.com/Yummygum/city-lights-icons-vsc)
+
+
+
+## Screenshots
+![screenshot-css](/assets/css.png)
+![screenshot-react](/assets/react.png)
+![screenshot-php](/assets/php.png)
+
 # Installation instructions 
 
 ## Theme downloaded form the VSC Marketplace
@@ -39,6 +58,13 @@ Option 1 is preferred as you wold be able to get the updates with a `git pull`co
 
 
 The generated theme package should be in the list of installed extensions, and "Secuoyas code" will be available in the list of themes.
+
+### Bonus - iTerm2 ColorSet
+Secuoyas-code theme adds a bautiful color theme to your terminal window. If you are using iTerm and want to pair those enviroments with the right ANSI colors, just load [this file](/assets/secuoyas-20.itermcolors) in iTerm2::Preferences>Profles>Colors>Color Presets...
+
+# License
+The following licensing applies to City Lights Syntax Theme: Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0). For more information go to https://creativecommons.org/licenses/by-nc-nd/4.0/
+
 
 ---- 
 
