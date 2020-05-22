@@ -1,6 +1,7 @@
 {
   "name": "Secuoyas Code",
   "type": "dark",
+  "editor.semanticHighlighting.enabled": false,
   "colors": {
     "breadcrumb.foreground": "#565C61",
     "breadcrumb.focusForeground": "#98A1AE",
@@ -32,10 +33,6 @@
 
     "descriptionForeground": "#98A1AE",
 
-    // "diffEditor.insertedTextBackground": "#98A1AE",
-    // "diffEditor.insertedTextBorder": "#1d1e21",
-    // "diffEditor.removedTextBackground": "#98A1AE",
-    // "diffEditor.removedTextBorder": "#1d1e21",
     "diffEditor.insertedTextBackground": "#19E99E1A",
     "diffEditor.insertedTextBorder": "#19E99E80",
     "diffEditor.removedTextBackground": "#FA00671A",

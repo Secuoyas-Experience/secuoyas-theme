@@ -1,43 +1,43 @@
 {
-	"name": "secuoyas-code",
-	"displayName": "Secuoyas VS Code Themes",
-	"version": "0.1.5",
-	"publisher": "Secuoyas",
-	"description": "company theme made at Secuoyas - a theme designed with care for better coding and improved developer experience",
-	"author": {
-		"name": "Secuoyas"
-	},
-	"categories": [
-		"Themes"
-	],
-	"icon": "icon.png",
-	"galleryBanner": {
-		"color": "#101010",
-		"theme": "dark"
-	},
-	"activationEvents": [
-		""
-	],
-	"engines": {
-		"vscode": "^1.14.0"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Secuoyas-Experience/secuoyas-theme"
-	},
-	"homepage": "https://secuoyas.com",
-	"contributes": {
-		"themes": [
-			{
-				"label": "Secuoyas Dark",
-				"uiTheme": "vs-dark",
-				"path": "themes/secuoyas-code.json"
-			}
-		]
-	},
-	"__metadata": {
-		"id": "5c3b9929-9f89-4454-a81e-95ffe8deebc7",
-		"publisherDisplayName": "Secuoyas",
-		"publisherId": "4e7483f4-255f-4f31-bc6c-d4c06eb91228"
-	}
+  "name": "secuoyas-code",
+  "displayName": "Secuoyas VS Code Themes",
+  "version": "0.1.5",
+  "publisher": "Secuoyas",
+  "description": "company theme made at Secuoyas - a theme designed with care for better coding and improved developer experience",
+  "author": {
+    "name": "Secuoyas"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#101010",
+    "theme": "dark"
+  },
+  "activationEvents": [
+    ""
+  ],
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Secuoyas-Experience/secuoyas-theme"
+  },
+  "homepage": "https://secuoyas.com",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Secuoyas-code",
+        "uiTheme": "vs-dark",
+        "path": "./themes/secuoyas-code.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "5c3b9929-9f89-4454-a81e-95ffe8deebc7",
+    "publisherDisplayName": "Secuoyas",
+    "publisherId": "4e7483f4-255f-4f31-bc6c-d4c06eb91228"
+  }
 }
