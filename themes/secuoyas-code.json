@@ -875,6 +875,17 @@
       }
     },
     {
+      "name": "Markdown - Bullets, lists",
+      "scope": [
+        "beginning.punctuation.definition.list.markdown",
+        "beginning.punctuation.definition.quote.markdown",
+        "punctuation.definition.link.restructuredtext"
+      ],
+      "settings": {
+        "foreground": "#A17E54"
+      }
+    },
+    {
       "name": "Markup - Table",
       "scope": ["markup.table"],
       "settings": {
@@ -893,6 +904,13 @@
       "scope": ["variable.other.php", "punctuation.definition.variable.php"],
       "settings": {
         "foreground": "#A17E54"
+      }
+    },
+    {
+      "name": "Shell variables prefixed with \"$\" (edge case)",
+      "scope": ["source.shell variable.other"],
+      "settings": {
+        "foreground": "#A950CF"
       }
     }
   ]

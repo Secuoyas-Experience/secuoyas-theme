@@ -7,22 +7,34 @@
   "author": {
     "name": "Secuoyas"
   },
+  "homepage": "https://secuoyas.com",
   "categories": [
     "Themes"
   ],
-  "icon": "icon.png",
-  "galleryBanner": {
-    "color": "#101010",
-    "theme": "dark"
-  },
-  "engines": {
-    "vscode": "^1.14.0"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Secuoyas-Experience/secuoyas-theme"
   },
-  "homepage": "https://secuoyas.com",
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "icon": "secuoyas-icon-w.png",
+  "galleryBanner": {
+    "color": "#101010",
+    "theme": "dark"
+  },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Contrast",
+    "Secuoyas",
+    "Front-end",
+    "React"
+  ],
+  "bugs": {
+    "url": "https://github.com/Secuoyas-Experience/secuoyas-theme/issues",
+    "email": "systems@secuoyas.com"
+  },
   "contributes": {
     "themes": [
       {

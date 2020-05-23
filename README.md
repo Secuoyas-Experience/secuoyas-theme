@@ -3,7 +3,7 @@
 
 # Secuoyas Code
 
-Dark theme designed with care for better coding and improved developer experience.
+Dark theme designed with care for better coding and improved developer experience, using Secuoya's color palette.
 
 This theme is optimized for Front End development, and has been optimized to have a uniied experience with html, css, js, md, json, and react files.
 
