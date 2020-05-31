@@ -221,7 +221,7 @@
     "terminal.ansiCyan": "#b09068",
     "terminal.ansiWhite": "#E9EaEC",
     "terminal.ansiBrightBlack": "#393c41",
-    "terminal.ansiBrightRed": "#ff4390",
+    "terminal.ansiBrightRed": "#FF4893",
     "terminal.ansiBrightGreen": "#19e99e",
     "terminal.ansiBrightYellow": "#fbe15c",
     "terminal.ansiBrightBlue": "#565C61",
@@ -294,6 +294,8 @@
         "constant.other.color",
         "punctuation",
         "meta.tag",
+        "meta.tag.without-attributes.js",
+        "meta.jsx.children.js",
         "punctuation.definition.tag",
         "punctuation.separator.inheritance.php",
         "punctuation.section.embedded",
@@ -301,7 +303,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#B3B8BC"
+        "foreground": "#9EA3A9"
       }
     },
     {
@@ -355,7 +357,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#FF4390"
+        "foreground": "#FF4893"
       }
     },
     {
@@ -484,14 +486,14 @@
       }
     },
     {
-      "name": "CSS Classes",
+      "name": "[CSS] - Classes",
       "scope": ["entity.other.attribute-name.class"],
       "settings": {
         "foreground": "#EBC9A1"
       }
     },
     {
-      "name": "CSS ID's",
+      "name": "[CSS] - ID's",
       "scope": [
         "source.sass keyword.control",
         "entity.other.attribute-name.id.css",
@@ -606,12 +608,65 @@
       }
     },
     {
-      "name": "ES7 Bind Operator",
+      "name": "[ES7 React JSX] - Bind Operator",
       "scope": [
         "source.js constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
         "fontStyle": "italic",
+        "foreground": "#24B5D0"
+      }
+    },
+    {
+      "name": "[ES7 React JSX] - Import Directives",
+      "scope": [
+        "source.js meta.import.js",
+        "keyword.control.import.js",
+        "keyword.control.from.js"
+      ],
+      "settings": {
+        "foreground": "#24B5D0"
+      }
+    },
+    {
+      "name": "[ES7 React JSX] - Export Directives",
+      "scope": ["source.js keyword.control.export.js"],
+      "settings": {
+        "foreground": "#24B5D0"
+      }
+    },
+    {
+      "name": "[ES7 React JSX] - Support",
+      "scope": ["source.js support.class.component.js"],
+      "settings": {
+        "foreground": "#F9D310"
+      }
+    },
+    {
+      "name": "[ES7 React JSX] - Storage",
+      "scope": ["source.js meta.var.expr.js", "storage.type.js"],
+      "settings": {
+        "foreground": "#EBC9A1"
+      }
+    },
+    {
+      "name": "[ES7 React JSX] - Expr",
+      "scope": ["source.js meta.var.expr.js"],
+      "settings": {
+        "foreground": "#BEA386"
+      }
+    },
+    {
+      "name": "[ES7 React JSX] - Variable",
+      "scope": ["variable.other.constant.js"],
+      "settings": {
+        "foreground": "#B09068"
+      }
+    },
+    {
+      "name": "[ES7 React JSX] - Flow",
+      "scope": ["keyword.control.flow.js"],
+      "settings": {
         "foreground": "#24B5D0"
       }
     },
