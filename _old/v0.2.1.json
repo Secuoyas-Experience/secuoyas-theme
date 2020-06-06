@@ -634,10 +634,10 @@
       }
     },
     {
-      "name": "[ES7 React JSX] - JSX Tags",
+      "name": "[ES7 React JSX] - Support",
       "scope": ["source.js support.class.component.js"],
       "settings": {
-        "foreground": "#BEA382"
+        "foreground": "#F9D310"
       }
     },
     {
@@ -658,7 +658,7 @@
       "name": "[ES7 React JSX] - Variable",
       "scope": ["variable.other.constant.js", "variable.other.readwrite.js"],
       "settings": {
-        "foreground": "#ACB5C3"
+        "foreground": "#ccb394"
       }
     },
     {
@@ -963,7 +963,7 @@
       "name": "Shell variables prefixed with \"$\" (edge case)",
       "scope": ["source.shell variable.other"],
       "settings": {
-        "foreground": "#ACB5C3"
+        "foreground": "#A950CF"
       }
     }
   ]
