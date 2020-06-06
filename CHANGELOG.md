@@ -6,6 +6,12 @@ All notable changes to the "secuoyas-code" extension will be documented in this 
 
 ## [Unreleased]
 
+## v0.3.x 
+- Improves JSX Tags -> brand color #BEA382
+- JS varibales -> ACB5C3
+- Shell Varibales -> ACB5C3
+- Updates images for React and shell
+
 ## v0.2.x 
 - Includes this Changelog
 - Improves readability for JS

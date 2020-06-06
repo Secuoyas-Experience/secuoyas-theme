@@ -17,6 +17,7 @@ This theme is optimized for Front End development, and has been optimized to hav
 ![screenshot-css](/assets/css.png)
 ![screenshot-react](/assets/react.png)
 ![screenshot-php](/assets/php.png)
+![screenshot-shell](/assets/shell.png)
 
 # Installation instructions 
 
